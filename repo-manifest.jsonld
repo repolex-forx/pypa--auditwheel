@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pypa/auditwheel/commit/63a51b2f62936e38b6504faa60db5ca042559f97",
       "git:hexsha": "63a51b2f62936e38b6504faa60db5ca042559f97",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/pypa/auditwheel/commit/c046f77b5c4162564f32e39798b95f1ae2db4673",
